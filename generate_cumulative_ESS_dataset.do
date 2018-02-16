@@ -7,7 +7,7 @@
 clear
 
 * Set you working directory
-cd "datasets/democracy_in_europe/full_datasets"
+cd "data_democracy_in_europe/full_datasets"
 global wd "`c(pwd)'"
 
 use "ESS8/ESS8e01.dta"

@@ -104,9 +104,3 @@ name(ciplot_Y2, replace)
 
 gr combine ciplot_ALL ciplot_Y0 ciplot_Y1 ciplot_Y2
 
-
-binscatter stfdem agea if agea<=81 & agea>=16, n(100)
-binscatter democracySat10 agea if agea<=81 & agea>=16, n(100)
-
-
-

@@ -19,5 +19,9 @@ Download or clone this entire project repository.
 
 Run the code in [sentiment_code.do](https://github.com/zilinskyjan/data_democracy_in_europe/blob/master/sentiment_code.do).
 
+### Show evaluation of democracy over time
+
+Run the code in [prepare_figure1.R](https://github.com/zilinskyjan/data_democracy_in_europe/blob/master/prepare_figure1.R).
+
 
 

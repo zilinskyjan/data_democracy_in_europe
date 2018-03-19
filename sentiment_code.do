@@ -1,8 +1,8 @@
-* Purpose: Chceck whether age correlates with satisfaction with Democracy
+* Purpose: Check whether age correlates with satisfaction with Democracy
 
 * Step 1: Load the dataset generated with generate_cumulative_ESS_dataset.do 
 
-* Calculations unerlying FIGURE 1:
+* Calculations underlying FIGURE 1:
 
 tabstat stfdem [w=dweight] if age_cat==1, by(wave) 
 tabstat stfdem [w=dweight] if age_cat==2, by(wave) 

@@ -1,7 +1,6 @@
 * Purpose: 	Create a cumulative ESS dataset
 ***		*	Keep the appropriate outcome variable
 ***		* 	Make covariates consistent across waves
-* Author: 	Jan Zilinsky
 * Time: 	Feb. 2018
 
 clear
